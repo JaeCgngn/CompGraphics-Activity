@@ -57,7 +57,7 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _alphaClipping: 0
+    - _alphaClipping: 0.956
     - _speed: 0
     m_Colors:
     - _Color: {r: 0.25216776, g: 0.7924528, b: 0.10840159, a: 1}
